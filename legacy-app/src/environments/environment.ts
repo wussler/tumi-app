@@ -4,9 +4,8 @@
 
 export const environment = {
   production: false,
-  // stripeKey: 'pk_live_cwWIdXXGPsJXy0UDC26mL4ai',
-  stripeKey: 'pk_test_yTgqTWFQv6R8G58nOlHISiOL',
-  server: 'http://localhost:3333',
+  stripeKey: 'pk_test_51MTggdKO08yBhgSs6f4z5DHThbO8rPtDKaP8Jlhrr3oXfrMjp68CyHVlc59IgPtqbCiEkoxhgIJYuAmm94HpmKQX00T72SbKZR',
+  server: 'https://tumi.esnaustria.org',
   useApiPath: true,
   version: 'dev',
 };
